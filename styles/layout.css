@@ -1,0 +1,28 @@
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+section {
+    width: 60rem;
+    padding: 2rem;
+}
+
+h1 {
+    font-size: 6rem;
+    text-align: center;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+  
+img {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    font-size: 2rem;
+    border-radius: 0.3rem;
+    cursor: pointer;
+}
